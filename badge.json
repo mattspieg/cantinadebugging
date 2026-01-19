@@ -1,10 +1,9 @@
 {
   "schemaVersion": 1,
-  "label": "Secured by",
-  "labelColor": "#000000",
-  "message": "Spearbit",
-  "color": "#25F2D0",
-  "style": "for-the-badge",
-  "logoSvg": "<svg width=\"24\" height=\"28\" viewBox=\"0 0 19 23\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.9205 23V21.5337C10.9205 20.1497 11.6226 18.8596 12.7842 18.1053L14.2944 17.1231L9.071 7.1528L3.8475 17.1231L5.3601 18.1053C6.5217 18.8596 7.2214 20.1473 7.2238 21.529V22.9977L0 18.2863L9.0733 0L18.1467 18.2863L10.9229 23H10.9205Z\" fill=\"#1F1F1F\"/></svg>",
+  "label": "",
+  "message": "Secured by Spearbit",
+  "color": "#F9FAFB",
+  "style": "plastic",
+  "logoSvg": "<svg width=\"16\" height=\"20\" viewBox=\"0 0 16 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.49609 20V18.725C9.49609 17.5215 10.1066 16.3997 11.1167 15.7437L12.4299 14.8897L7.88783 6.21983L3.34565 14.8897L4.66096 15.7437C5.67104 16.3997 6.27948 17.5194 6.28157 18.7209V19.998L0 15.9011L7.88983 0L15.7797 15.9011L9.49817 20H9.49609Z\" fill=\"#1F1F1F\"/></svg>",
   "link": "https://cantina.xyz/solutions/spearbit"
 }
